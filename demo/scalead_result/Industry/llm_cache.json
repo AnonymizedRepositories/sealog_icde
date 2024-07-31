@@ -1,0 +1,802 @@
+{
+    "current init bean name <> bean org mybatis spring <> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It appears to be a normal log message.",
+        "examples": []
+    },
+    "query product detail failed com clouds taskmgr extention openstack client HTTPServerException exceptionId mopro_ exceptionType ROA_EXFRAME_EXCEPTION descArgs Failed to call the external service reasonArgs Failed to call the external service detailArgs Operation failed because the external service is abnormal adviceArgs Contact technical support ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a failure in querying the product detail. It mentions that there was an exception (HTTPServerException) with the ID 'mopro_' and the type 'ROA_EXFRAME_EXCEPTION'. The log also states that the operation failed because the external service is abnormal and advises to contact technical support. These details suggest that there was an abnormal event or error in the system.",
+        "examples": []
+    },
+    "Start upgrade baseline of user at private scene ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It appears to be a normal query to start upgrading the baseline of a user at a private scene.",
+        "examples": []
+    },
+    "start register gateway ir ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a normal log message indicating the start of registering a gateway.",
+        "examples": []
+    },
+    "end report project assign alarm task ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "clear cache machine by identity success ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It simply states that the cache machine was cleared successfully. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "Custom group role is already upgraded ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered as a normal log message.",
+        "examples": []
+    },
+    "print url by appName MOTaskCenterService ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query for printing the URL by the application name 'MOTaskCenterService'. There is no indication of any abnormal events or errors in the log message. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "<> action size to iam ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "Preset vdc mo_bss_admin existed continue ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "end refreshvdcinfo ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "CheckPreset type project key mo_bss_admin ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query to check a preset type project key for the 'mo_bss_admin' system. There is no indication of any abnormal events or errors in the log message.",
+        "examples": []
+    },
+    "action upgrade succeed ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that an upgrade action was successful.",
+        "examples": []
+    },
+    "Set project quota tasks is empty projectId null ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a system abnormal event. It mentions that the project quota tasks are empty and the projectId is null, which suggests a failure or error in the system.",
+        "examples": []
+    },
+    "START upgrade custom group role ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query to start upgrading a custom group role. There is no indication of any abnormal events or errors. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "clear cache machine by identity ": {
+        "prediction": "normal",
+        "analysis": "The log message describes a query to clear the cache machine by identity. There is no indication of any abnormal events or errors. Therefore, the log message is considered normal.",
+        "examples": []
+    },
+    "Project services is empty projectId null timerTask true ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates an anomaly. It mentions that the project services is empty and the projectId is null, which suggests a failure or abnormal event in the system.",
+        "examples": []
+    },
+    "ResponseEntity return httpCode is requestEntity s type is GET requestEntity s url is requestEntity s header is please check ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It appears to be a generic message providing information about the HTTP request and response.",
+        "examples": []
+    },
+    "WebAppContext war file ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "no data to insert ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that there is no data to insert, which can be considered as an abnormal event.",
+        "examples": []
+    },
+    "<> size to iam ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "checkCreateUserAccessInfo limitAccess is false ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "MsgCallBack resp result message zh_cn <> en_us The current user <> <> <> <> <> <> <> has <> <> <> service_id <> X Language zh_cn ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It appears to be a normal message indicating the result of a message callback with a response in different languages.",
+        "examples": []
+    },
+    "register service info success ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the registration of a service was successful.",
+        "examples": []
+    },
+    "bucket origin name is null ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a system abnormal event as it mentions that the bucket origin name is null. This could potentially cause issues or errors in the system.",
+        "examples": []
+    },
+    "Default domainId project mo_bss_project existed continue": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Start init spring ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It is a normal log message indicating the start of initializing the spring framework.",
+        "examples": []
+    },
+    "deal_token_refresh_broadcast Failed to invalidate tokens error message is Failed to find the matched session id client server request POST refreshRequest assumerole HTTP host console mo type com ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates an anomaly. It mentions a failure in invalidating tokens and a failed request to find a matched session ID.",
+        "examples": []
+    },
+    "zenith ssl enabled ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the SSL feature is enabled for the Zenith system.",
+        "examples": []
+    },
+    "roa service cost ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "BootHandle all thread init start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "BootHandle index end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states the end of the BootHandle index.",
+        "examples": []
+    },
+    "userId is agency user ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the userId is an agency user.",
+        "examples": []
+    },
+    "resetPassword request failed oc user id ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a failure in the resetPassword request for the oc user id.",
+        "examples": []
+    },
+    "Cant not load file fileConfiguration properties ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates an anomaly. The content 'Cant not load file fileConfiguration properties' suggests that there is an issue with loading the file fileConfiguration properties. This could be due to a missing or corrupted file, which is an abnormal event.",
+        "examples": []
+    },
+    "initSystemPolicy start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It simply indicates the start of initializing the system policy. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "start register MOSBIGatewayService ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a normal start of the MOSBIGatewayService registration process.",
+        "examples": []
+    },
+    "ldap server list result data ": {
+        "prediction": "normal",
+        "analysis": "The log message is a result of a query for LDAP server list data. It does not indicate any abnormal events.",
+        "examples": []
+    },
+    "<> <> Rest service n com manageone motaskcenter motaskcenterservice service MOTaskCenterServiceHealth EnhancerBySpringCGLIB n com manageone motaskcenter motaskcenterservice service MOTaskCenterService EnhancerBySpringCGLIB n ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "WebAppContext getContextPath ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query for the context path of a web application. It does not indicate any abnormal events or errors.",
+        "examples": []
+    },
+    "Start VdcReadOnlyGroupUpgrade presetVdcReadOnlyGroups size ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a normal query log message.",
+        "examples": []
+    },
+    "MODELSTATUS IS READY ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "End to init rucor service ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "failed to query from elastic searches org elasticsearch common breaker CircuitBreakingException parent Data too large data for indices data would gb which is larger than the limit of gb real usage gb new bytes reserved <> usages request <> fielddata <> in_flight_requests <> accounting mb ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a failure in querying from elastic searches. It mentions a CircuitBreakingException and states that the data for indices is too large. This suggests an abnormal event in the system.",
+        "examples": []
+    },
+    "empty global quota or notify task to execute ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates an anomaly. The content 'empty global quota or notify task to execute' suggests that there is an issue with the global quota or the execution of a notify task. This implies a potential abnormal event in the system.",
+        "examples": []
+    },
+    "start to transfer batch data ": {
+        "prediction": "normal",
+        "analysis": "The log message indicates the start of a data transfer process. There is no indication of any abnormal events or errors. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "agencyId agencyName aN_ <> <> <> <> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It appears to be a query related to an agency, but there is not enough information to determine if it is an anomaly or not.",
+        "examples": []
+    },
+    "read remote config successful agent id config_servers ": {
+        "prediction": "normal",
+        "analysis": "The log message indicates a successful read of the remote config for the agent with the ID 'config_servers'. There is no indication of any abnormal events or errors. Therefore, the log message is considered normal.",
+        "examples": []
+    },
+    "Init spring from files app ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "current init bean name transactionManager bean org springframework jdbc datasource DataSourceTransactionManager ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is simply stating the current init bean name as 'transactionManager' for the 'DataSourceTransactionManager' class in the 'org.springframework.jdbc.datasource' package.",
+        "examples": []
+    },
+    "appRoot ": {
+        "prediction": "normal",
+        "analysis": "The log message 'appRoot' does not provide enough information to determine if it indicates an anomaly or not. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "taskId update status finish ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a simple update status finish message, indicating a normal operation.",
+        "examples": []
+    },
+    "parse node operation error com bsp remoteservice exception ServiceException exception id SMS SMMgmtService Node_Self_Operation Count Max Error ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains content describing a system abnormal event, specifically an error in the parse node operation. Therefore, it is classified as an anomaly.",
+        "examples": []
+    },
+    "logpath processname movdcservice ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "frameworkSpring is ": {
+        "prediction": "normal",
+        "analysis": "The log message does not provide enough information to determine if it indicates an anomaly or not. It appears to be a partial query, but without further context, it is not possible to determine if it is an abnormal event or not.",
+        "examples": []
+    },
+    "alarm http return end url status ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered as a normal log message.",
+        "examples": []
+    },
+    "Default user bss_admin existed continue": {
+        "prediction": "normal",
+        "analysis": "The log message indicates that the default user 'bss_admin' already exists, and the process can continue. There is no indication of any abnormal events or errors. Therefore, the log message is considered normal.",
+        "examples": []
+    },
+    "Load trustStore for RestTemplate succeeded ": {
+        "prediction": "normal",
+        "analysis": "The log message indicates that the trustStore for RestTemplate was successfully loaded. There is no indication of any abnormal events or errors. Therefore, the log message is considered normal.",
+        "examples": []
+    },
+    "register upstream request content desc MOVDCService nodes type roundrobin reqType PUT url ": {
+        "prediction": "normal",
+        "analysis": "The log message describes a query for registering an upstream request content. There is no indication of any abnormal events or errors. Therefore, the log message is considered normal.",
+        "examples": []
+    },
+    "Subsequent logs will printed to the root log of each microservice Please see the logs of each microservice ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a general message indicating that subsequent logs will be printed to the root log of each microservice.",
+        "examples": []
+    },
+    "user testUserAgent not oc user no go to oc Auth ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains the terms 'user', 'testUserAgent', 'oc', 'Auth', which suggest that there may be an issue with user authentication or access to the 'oc' system. This indicates an anomaly.",
+        "examples": []
+    },
+    "Retry upgrade UnifiedUserUpgradeImpl redisKey system bootup global upgrade unified user lock retryNum ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It seems to be a normal system bootup message with a retry attempt for upgrading the unified user lock.",
+        "examples": []
+    },
+    "VM data before persistence ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the VM data is being processed before persistence.",
+        "examples": []
+    },
+    "agency user projectId groupId domainId ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It appears to be a query for agency user details related to a project, group, and domain.",
+        "examples": []
+    },
+    "AppInstanceSharePath is ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a normal log message.",
+        "examples": []
+    },
+    "Missing role exist role Name approv_adm mo_bss_adm vdc_adm mo_agency app_user vdc_readonly approv_act app_readonly vdc_user app_adm ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query for missing roles. It does not indicate any abnormal events or errors.",
+        "examples": []
+    },
+    "action bind quotas quotas ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "<> init bean name com manageone <> <> <> <> bean com manageone <> <> <> <*> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "refresh test rate limit succeed at times ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the refresh of the test rate limit succeeded.",
+        "examples": []
+    },
+    "current init bean name <> bean com manageone movdc movdcservice deprecated business project <> <> ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains terms like 'deprecated' and 'business project', which suggest that there may be an issue with the system. Therefore, it is classified as an anomaly.",
+        "examples": []
+    },
+    "releaseLock lockKeyuser ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "BootHandle registerMachineAccount start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Response failed ext java util concurrent TimeoutException Idle timeout ms ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a failure in the response. The mention of 'failed' and 'TimeoutException' suggests an abnormal event.",
+        "examples": []
+    },
+    "internal server error traceid is requestid is opname error code error message kafka init error exception is mqexception ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains keywords such as 'error', 'exception', and 'init error', indicating a system abnormal event. Therefore, it is classified as an anomaly.",
+        "examples": []
+    },
+    "pre app role success ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "invalidate all action data redis cache ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a routine action to invalidate all action data in the Redis cache.",
+        "examples": []
+    },
+    "Start sync role ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "current init bean name org springframework cache interceptor CacheInterceptor bean org springframework cache interceptor CacheInterceptor ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "agency USERID ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query for the agency with a specific USERID. There is no indication of any abnormal events or errors.",
+        "examples": []
+    },
+    "before persistence success ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the persistence was successful.",
+        "examples": []
+    },
+    "Already upgrade ecs role iam id with global globalIamId ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It states that the ecs role iam id has already been upgraded with the global globalIamId.",
+        "examples": []
+    },
+    "BSP System is starting ": {
+        "prediction": "normal",
+        "analysis": "The log message indicates that the BSP System is starting, which is a normal event.",
+        "examples": []
+    },
+    "GET https mo type com mo lvs cn region mo type com error builder error invalid port number ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains words like 'error' and 'invalid port number', indicating a system abnormal event. Therefore, it is classified as an anomaly.",
+        "examples": []
+    },
+    "count cache type projects total ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a simple query for counting the total number of cache type projects. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "BootHandle registerMachineAccount end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not describe any abnormal events. It is a normal message indicating the end of the registration process for a machine account.",
+        "examples": []
+    },
+    "x trace id x request id RouteID moproductservice not found completed todo record objId ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains words like 'not found' and 'completed todo', indicating that there may be an abnormal event or error in the system.",
+        "examples": []
+    },
+    "Role already sync ": {
+        "prediction": "normal",
+        "analysis": "The log message does not describe any abnormal events. It simply states that the role is already synchronized.",
+        "examples": []
+    },
+    "BootHandle initBusCore end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It is a normal log message indicating the completion of the initialization of the BusCore component during the boot process.",
+        "examples": []
+    },
+    "parentTaskId successCount usersCount percentDec ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It appears to be a query related to task success count, user count, and percentage decrease. Therefore, it is classified as normal.",
+        "examples": []
+    },
+    "delete alarm static Info": {
+        "prediction": "normal",
+        "analysis": "The log message is a simple query to delete an alarm static info. There is no indication of any abnormal events or errors. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "KafkaUtil send Topic USER_CHANGE_NOTIFY Status Content domain_id resource_tenant_id roles name <> <> description id vdc_id enabled true ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "user vdcmanage_ not oc user no go to oc Auth ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "user testUserAgent Pao not oc user no go to oc Auth ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "service_name is already updated ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the service_name has already been updated.",
+        "examples": []
+    },
+    "BootHandle initAndRegisterMachineAccount end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a normal message indicating the end of initializing and registering a machine account during boot.",
+        "examples": []
+    },
+    "register upstream response content action set node value update_time type roundrobin desc MOVDCService hash_on vars pass_host pass scheme http nodes id create_time key n httpCode ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It appears to be a query related to registering an upstream response content action. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "response code is url msg exceptionId <> <> <> <> exceptionType ROA_EXFRAME_EXCEPTION descArgs null reasonArgs <> detailArgs null adviceArgs null ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains content describing a system abnormal event, such as an exception and null values. Therefore, it is classified as an anomaly.",
+        "examples": []
+    },
+    "initSystemPolicy end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "resIdList size is ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It is a normal log message indicating the size of the resIdList.",
+        "examples": []
+    },
+    "records fetched from consumer task ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that records were fetched from a consumer task.",
+        "examples": []
+    },
+    "ecsActionExist false del action size ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains the words 'false', 'del', and 'size', which indicate abnormal events such as deletion and size issues. Therefore, it is classified as an anomaly.",
+        "examples": []
+    },
+    "job successfully MOVDCService <> ": {
+        "prediction": "normal",
+        "analysis": "The log message indicates that a job was successfully executed by the MOVDCService. There is no indication of any abnormal events or errors. Therefore, the log message is considered normal.",
+        "examples": []
+    },
+    "reader request line for https failed <> line <> <> ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a failure in reading the request line for an HTTPS connection. This suggests an abnormal event in the system.",
+        "examples": []
+    },
+    "Begin to init rucor service ": {
+        "prediction": "normal",
+        "analysis": "The log message is a normal event indicating the start of initializing the rucor service.",
+        "examples": []
+    },
+    "START upgrade agency user ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a normal query to upgrade the agency user.",
+        "examples": []
+    },
+    "KafkaUtil send Topic USER_CHANGE_NOTIFY Status Content domain_id resource_tenant_id roles name <> <> description id <> enabled true ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "START upgrade manager privacy ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "save center agency user domainId groupId projectId ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query that includes a list of parameters. It does not indicate any abnormal events or errors.",
+        "examples": []
+    },
+    "start register gateway service info ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states the start of registering the gateway service information.",
+        "examples": []
+    },
+    "policyEnabled is false ": {
+        "prediction": "normal",
+        "analysis": "The log message does not describe any abnormal events. It simply states that the policyEnabled flag is set to false. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "end register project assign alarm ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "enterpriseId is null ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates a null value for the enterpriseId, which can be considered as an abnormal event.",
+        "examples": []
+    },
+    "current init bean name adapter bean com manageone sdk toolkit rucor SCRucorAdapterImpl ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "success register alarm info ": {
+        "prediction": "normal",
+        "analysis": "The log message indicates a successful registration of alarm information. There is no mention of any abnormal events or errors. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "the policy moscapp already exists don't need to register": {
+        "prediction": "normal",
+        "analysis": "The log message indicates that the policy 'moscapp' already exists and does not need to be registered. This is a normal event and does not indicate any anomalies.",
+        "examples": []
+    },
+    "End of croning project quotas ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "current init bean name com bsp <> <> <> <> bean com bsp <> <> <> <> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "free project is Already upg ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "start to reset all temp table ": {
+        "prediction": "normal",
+        "analysis": "The log message is describing a normal event of resetting all temporary tables.",
+        "examples": []
+    },
+    "Already upgrade agency id mapping with global iamID ": {
+        "prediction": "normal",
+        "analysis": "The log message does not describe any abnormal events. It indicates that the agency id mapping has already been upgraded with a global iamID.",
+        "examples": []
+    },
+    "The machine machine user has been registered ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that a machine user has been registered.",
+        "examples": []
+    },
+    "start report project assign alarm task ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "start to insert subTasks ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the system is starting to insert subTasks.",
+        "examples": []
+    },
+    "collect trigger start triggerTime ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Already upgrade group id mapping with global iamID ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "Deal free project start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "beginTime endTime granularity ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query that specifies a begin time, end time, and granularity. It does not indicate any abnormal events.",
+        "examples": []
+    },
+    "start execute parse open_api xml ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the execution of parsing an open_api XML has started.",
+        "examples": []
+    },
+    "current init bean name org springframework <> interceptor <> bean org springframework <> interceptor <> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "Already upgraded system user and group ": {
+        "prediction": "normal",
+        "analysis": "The log message does not describe any abnormal events. It simply states that the system user and group have already been upgraded.",
+        "examples": []
+    },
+    "Create user task status is <*> release lock ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It simply states that the user task status is releasing the lock. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "no serviceconfigs to regist ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that there are no service configurations to register, which can be considered as an abnormal event. Therefore, the log message is classified as an anomaly.",
+        "examples": []
+    },
+    "Init spring application context failed system is started in abnormal state org springframework beans factory BeanDefinitionStoreException Unexpected exception parsing XML document from URL file nested exception is java lang IllegalStateException Unable to load schema mappings from location META INF ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that there was an unexpected exception while parsing an XML document. This suggests that the system encountered an abnormal state during the initialization of the spring application context.",
+        "examples": []
+    },
+    "Create vdc V get Lock vdc_wqqwwddqwdwdqwqdwqdqdwd_ <> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "cannot get topicInfo for consumer by topic <> <> <> <> ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that there is an issue with getting topic information for a consumer. This suggests a failure or abnormal event in the system.",
+        "examples": []
+    },
+    "x trace id x request id routeid moserviceaccesswebsite parameter check error param name name value <> traceid is requestid is routeid moserviceaccesswebsite ": {
+        "prediction": "anomaly",
+        "analysis": "The log message contains content describing an error in parameter check. Therefore, it is considered an anomaly.",
+        "examples": []
+    },
+    "Upgrade preset role action End role size ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered normal.",
+        "examples": []
+    },
+    "rest config file isn t exist or not file ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that the configuration file does not exist or is not a file, which suggests a system abnormality.",
+        "examples": []
+    },
+    "current init bean name <> bean com bsp <> <> <> <*> ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Create vdc V get Lock testDomain ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "create audit log task end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states the end of creating an audit log task.",
+        "examples": []
+    },
+    "createCollectTask audit log task start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a normal log indicating the start of an audit log task.",
+        "examples": []
+    },
+    "current init bean name vendorProperties bean org springframework beans factory config PropertiesFactoryBean ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Manager privacy is already upgraded ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the manager privacy has already been upgraded.",
+        "examples": []
+    },
+    "BootHandle initBusCore start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a normal initialization of the BootHandle for the bus core.",
+        "examples": []
+    },
+    "Retry upgrade LoginModeUpgradeImpl succeed redisKey system bootup global upgrade login_mode lock ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "url detection error opsagent taskId retCode is empty ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates an anomaly. It describes an error in detecting the URL with an empty retCode.",
+        "examples": []
+    },
+    "start refreshvdcinfo ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Domain setTags unsetTags ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "start register upstream desc MOVDCService <*> type roundrobin ": {
+        "prediction": "normal",
+        "analysis": "The log message is a query to start registering an upstream description for the MOVDCService using the round-robin type. There is no indication of any abnormal events in the log message.",
+        "examples": []
+    },
+    "isUserExisted bss_admin true": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It is a query to check if a user with the username 'bss_admin' exists. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "init policy start ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It simply states the start of the initialization of a policy. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "Start init mapper file ": {
+        "prediction": "normal",
+        "analysis": "The log message does not indicate any abnormal events. It simply states that the initialization of the mapper file has started.",
+        "examples": []
+    },
+    "register service success res is node value update_time type roundrobin desc MOVDCService hash_on vars pass_host pass scheme <> nodes id create_time key <> action <*> n ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing abnormal events. It appears to be a normal registration of a service.",
+        "examples": []
+    },
+    "agencyId agencyName <> <> vdcDomainId ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it can be considered as a normal log message.",
+        "examples": []
+    },
+    "current init bean name httpsClient bean com ies sdk utils http HttpsClient ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. It appears to be a normal log message related to initializing a bean named 'httpsClient' in the 'com.ies.sdk.utils.http' package.",
+        "examples": []
+    },
+    "execute create init audit log task end ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "appBaseHome is ": {
+        "prediction": "normal",
+        "analysis": "The log message does not contain any content describing system abnormal events. Therefore, it is considered normal.",
+        "examples": []
+    },
+    "Modify dump job but not ok ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that there was an issue with modifying a dump job. The phrase 'not ok' suggests that the modification was unsuccessful, which can be considered as an abnormal event.",
+        "examples": []
+    },
+    "user name is alreay exist or illegal ": {
+        "prediction": "anomaly",
+        "analysis": "The log message indicates that there is an issue with the user name, either it already exists or it is illegal. This suggests an abnormal event in the system.",
+        "examples": []
+    }
+}
